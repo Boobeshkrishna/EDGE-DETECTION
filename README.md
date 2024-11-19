@@ -1,4 +1,4 @@
-# EX 3
+# EX 6
 # EDGE-DETECTION
 # DATE
 ## Aim:
